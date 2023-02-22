@@ -1,0 +1,14 @@
+body {
+  background-color: #ffe2b0;
+}
+
+ul {
+  text-align: center;
+  list-style: none;
+}
+
+a {
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+}
